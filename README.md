@@ -30,6 +30,9 @@ Outro bug notado foi ao compilar para webassembly, nesse caso os tijolos nao sã
 - [ ] Mecanica de quebrar tijolos
 - [ ] Tela de Win/Game Over
 
+### Link para projeto online
+- [Github Pages](https://lufelipe111.github.io/openGL-breakout/)
+
 ### Credits
 
 Developed by Harlen Batagelo.
