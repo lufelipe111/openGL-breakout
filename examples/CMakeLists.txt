@@ -1,7 +1,1 @@
-# add_subdirectory(helloworld)
-# add_subdirectory(first-app)
-# add_subdirectory(sierpinski)
-# add_subdirectory(coloredTriangles)
-# add_subdirectory(coloredPolygons)
-add_subdirectory(asteroids)
 add_subdirectory(break)
